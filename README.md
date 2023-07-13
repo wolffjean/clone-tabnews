@@ -1,1 +1,1 @@
-# clone-tabnews
+# Criando um clone da aplicação tabnews
